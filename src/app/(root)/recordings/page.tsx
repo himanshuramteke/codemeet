@@ -1,3 +1,5 @@
+"use client";
+
 import LoaderUI from "@/components/LoaderUI";
 import RecordingCard from "@/components/RecordingCard";
 import { ScrollArea } from "@/components/ui/scroll-area";
